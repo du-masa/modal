@@ -5,5 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // モーダル処理
   (function() {
+    // do something・・・
   }());
 })
